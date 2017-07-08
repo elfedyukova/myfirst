@@ -3,4 +3,6 @@ test
  * 
  */
 
-test test test test
+   <script>
+    alert( 'Привет, Мир!' );
+  </script>
