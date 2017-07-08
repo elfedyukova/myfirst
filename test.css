@@ -1,11 +1,19 @@
-p {
-  color: #999999;
+body {
+    padding: 0 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
 }
 
 h1 {
-  font-family: Tahoma;
+    font-family: Tahoma;
+    color: #618AD2;
+    text-shadow: 2px 2px 0 #ccc;
 }
 
 h2 {
-  color: #0088cc;
+    color: #0088cc;
+}
+
+p {
+    color: #999999;
 }
