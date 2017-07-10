@@ -2,6 +2,7 @@ body {
     padding: 0 20px;
     font-family: Arial, sans-serif;
     font-size: 16px;
+    
 }
 
 h1 {
@@ -16,4 +17,8 @@ h2 {
 
 p {
     color: #999999;
+}
+
+.abzaz {
+    color: red;
 }
